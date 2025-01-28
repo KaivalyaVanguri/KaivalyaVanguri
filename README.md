@@ -3,7 +3,7 @@
 ### I am a Udemy Instructor, a Masters Student at TU Darmstadt, a Blogger...!! 
 
 I am here to explore Opensourcing and to form new connections!! 
-Click on ![My Linktree](https://linktr.ee/kaivalyavanguri) 
+Click on my linktree <href=https://linktr.ee/kaivalyavanguri>
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=KaivalyaVanguri&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KaivalyaVanguri&langs_count=5&theme=tokyonight)]()
